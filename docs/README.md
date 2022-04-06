@@ -104,9 +104,14 @@
 ---
 
 
-### OSS・個人開発活動
+### 個人開発活動
+#### リポジトリ
+<!-- TODO: StoryBook の共通コンポーネント管理リポジトリの入力 -->
 
-#### 主要リポジトリ
+<!-- TODO: React + TypeScript + Nginx + Golang + MySQL のリポジトリの入力 -->
+
+<!-- TODO: study リポジトリの入力 -->
+
 
 ---
 
