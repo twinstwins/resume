@@ -108,13 +108,12 @@
 ### 個人開発活動
 #### リポジトリ
 
-#### StoryBook による React 共通コンポーネント管理
+#### StoryBook による React + TypeScript 共通コンポーネント管理
 - リポジトリURL
 https://github.com/twinstwins/study/tree/master/javascript/react/storybook
 
 - デプロイURL
 https://www.chromatic.com/library?appId=6252bd13824590003a9de81e&branch=master
-
 
 
 #### React + TypeScript + Nginx + Golang + MySQL を使用した TODOアプリケーション
