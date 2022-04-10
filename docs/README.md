@@ -14,20 +14,6 @@
 
 ---
 
-## 保有スキル
-### 業務レベル
-- PHP + Laravel + Blade + JavaScript + jQuery での使用したバックエンド・フロントエンド開発 
-- TypeScript + Vue.js を使用したコンポーネント指向のフロントエンド開発・設計
-- Laravel を使用した WEB API 開発
-
-### 趣味レベル
-- Ruby + Ruby on Rails を使用したモノリシックアプリケーションの構築
-- Dokcer-compose を使用した Golang + MySQL + TypeScript + React + Nginx 開発環境構築
-- Go + Gin + GORM (ORM) を使用した Web API 作成
-- React を使用したコンポーネント指向のフロントエンド開発
-- Coq (定理証明支援系) を使用した基礎的な命題論理・述語論理問題の証明
----
-
 ## 技術スタック
 
 <p>
@@ -47,14 +33,27 @@
  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
+## 保有スキル
+### 業務レベル
+- TypeScript + Vue.js を使用したコンポーネント指向のフロントエンド開発・設計
+- PHP + Laravel + Blade + JavaScript + jQuery を使用したバックエンド・フロントエンド開発
+- PHP + Laravel を使用したモノリシックアプリケーションの構築
+- Laravel を使用した WEB API 開発
+
+### 趣味レベル
+- Ruby + Ruby on Rails を使用したモノリシックアプリケーションの構築
+- Dokcer-compose を使用した Golang + MySQL + TypeScript + React + Nginx 開発環境構築
+- Go + Gin + GORM (ORM) を使用した Web API 作成
+- React を使用したコンポーネント指向のフロントエンド開発
+- Coq (定理証明支援系) を使用した基礎的な命題論理・述語論理問題の証明
 
 
 # 職務経歴書
 
-## 職務経歴詳細
-
 ### リンケージ株式会社（2020/07〜現在）
 オンライン診療サービスの開発に従事。
+
+
 <!-- 
 開発リソースが限られる中で、ユーザーの利便性を高める追加機能の設計から実装を主導。得意とするフロントエンド開発の経験を活かして、フロントエンドの改善活動をリード。また、モブプログラミングのライブ配信への出演や、フルリモート環境で気軽に質問できるSlackチャンネルの作成やbot開発などを通して、良い組織作りへの貢献も行っている。
 
@@ -108,11 +107,24 @@
 
 ### 個人開発活動
 #### リポジトリ
-<!-- TODO: StoryBook の共通コンポーネント管理リポジトリの入力 -->
 
-<!-- TODO: React + TypeScript + Nginx + Golang + MySQL のリポジトリの入力 -->
+#### StoryBook による React 共通コンポーネント管理
+- リポジトリURL
+https://github.com/twinstwins/study/tree/master/javascript/react/storybook
 
-<!-- TODO: study リポジトリの入力 -->
+- デプロイURL
+https://www.chromatic.com/library?appId=6252bd13824590003a9de81e&branch=master
+
+
+
+#### React + TypeScript + Nginx + Golang + MySQL を使用した TODOアプリケーション
+- リポジトリURL
+https://github.com/twinstwins/study/tree/master/project/golang_react_todo_app
+
+
+#### 汎用学習用リポジトリ
+- リポジトリURL
+https://github.com/twinstwins/study
 
 
 ---
