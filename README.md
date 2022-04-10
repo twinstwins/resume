@@ -1,8 +1,8 @@
-# { Yuji Nakamura } resume
+#  Yuji Nakamura resume
 
 ## Sample
 
-https://github.com/kawamataryo/resume
+https://github.com/twinstwins/resume
 
 ## Features
 
