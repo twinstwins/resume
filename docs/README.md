@@ -40,7 +40,6 @@
 </p>
 
 ## 保有スキル
-### 業務レベル
 - TypeScript + Vue.js を使用したコンポーネント指向のフロントエンド開発・設計
 - PHP + Laravel + Blade + JavaScript + jQuery を使用したバックエンド・フロントエンド開発
 - PHP + Laravel を使用したモノリシックアプリケーションの構築
