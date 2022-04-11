@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
   <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">  
   <img alt="PHP" src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=plastic">
+  <img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=plastic">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
