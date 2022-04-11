@@ -74,7 +74,7 @@
 - **役割：**
     - 機能検討、コーディング、レビュー、カスタマーサポート・ビジネスチームとの連携
 - **プロジェクト詳細：**
-    - Laravel でモノリシックに構築されたレガシーシステムから Laravel, TypeScript, Vue.js を使用したシステムへのフルリニューアル 
+    - Laravel でモノリシックに構築されたレガシーシステムから Laravel, TypeScript, Vue.js を使用したマイクロサービスへのフルリニューアル 
     - Laravel を使用したフロントエンド向けの API 開発
     - TypeScript, Vue.js でのコンポーネント開発、 SPA サイト構築
     - Laravel, Blade, JavaScript, jQuery を使用したシステムの新機能開発・改修
