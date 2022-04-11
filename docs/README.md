@@ -44,7 +44,7 @@
 - TypeScript + Vue.js を使用したコンポーネント指向のフロントエンド開発・設計
 - PHP + Laravel + Blade + JavaScript + jQuery を使用したバックエンド・フロントエンド開発
 - PHP + Laravel を使用したモノリシックアプリケーションの構築
-- Laravel を使用した WEB API 開発
+- Laravel を使用した API 開発
 
 ### 趣味レベル
 - Ruby + Ruby on Rails を使用したモノリシックアプリケーションの構築
