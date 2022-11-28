@@ -22,14 +22,17 @@
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=plastic">
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  
 
+  
+  
 </p>
 
 ### 趣味レベル
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
   <img alt="Ruby-on-Rails" src="https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=Ruby-on-Rails&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
@@ -103,7 +106,7 @@
 - **プロジェクト規模：**
     - 自分のみ
 - **役割：**
-    - 全機能の検討と実装を担当
+    - 機能の検討と実装を担当
 
 --- 
 
@@ -111,12 +114,12 @@
   - 某自治体向けのハザードマップ作成
 
 - **使用技術：**
-  - React / TypeScript / MapLibre
+  - React.js / TypeScript / MapLibre
 
 - **プロジェクト規模：**
     - 自分のみ
 - **役割：**
-    - 全機能の検討と実装を担当
+    - 機能の検討と実装を担当
       - レイヤーの追加
       - レイヤー透過度設定
       - 検索機能
@@ -124,7 +127,9 @@
 
 - **その他：**
     - フロントエンドチーム定例会主催とファシリテーターを担当し、開発プロセスを改善
-    - フロントエンドチームの週次勉強会の主催(テーマは、業務で扱うOSSのドキュメント・コードを読むなど)
+    - フロントエンドチームの週次勉強会の主催
+      -  業務で扱うOSS（Leaflet.js)の公式のドキュメントを読む、TypeScript導入にあたっての知識共有
+      -  内容は社内ドキュメント化
     - フロントエンドコードの内部品質の改善プロジェクト立ち上げ 
       - 既存プロジェクトへの TypeScript の導入,運用方針の制定
       - Airbnb JavaScript Style Guide + Vue.js Official Style Guide に準拠したコーディング規約制定
