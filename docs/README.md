@@ -26,9 +26,6 @@
   <img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   
-
-  
-  
 </p>
 
 ### 趣味レベル
@@ -104,7 +101,7 @@
   - TypeScript / Vue3 / AWS
 
 - **プロジェクト規模：**
-    - 自分のみ
+    - 1 ~ 2名 ( デプロイ以外を自分が担当)
 - **役割：**
     - 機能の検討と実装を担当
 
@@ -114,15 +111,17 @@
   - 某自治体向けのハザードマップ作成
 
 - **使用技術：**
-  - React.js / TypeScript / MapLibre
+  - React.js / TypeScript / MapLibre 
 
 - **プロジェクト規模：**
-    - 自分のみ
+    - 1 ~ 2名 ( 詳細なスタイリング以外を自分が担当)
 - **役割：**
     - 機能の検討と実装を担当
-      - レイヤーの追加
+      - レイヤー追加
       - レイヤー透過度設定
       - 検索機能
+      - Playwright による自動テスト
+      - AWS Amplify を使用したデプロイ
 --- 
 
 - **その他：**
