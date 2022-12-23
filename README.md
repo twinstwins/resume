@@ -2,7 +2,7 @@
 
 ## Sample
 
-https://github.com/twinstwins/resume
+https://github.com/twinstwins/resume/tree/master/docs
 
 ## Features
 
