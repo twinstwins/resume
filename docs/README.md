@@ -119,7 +119,7 @@
     - 機能の検討と実装を担当
       - レイヤー追加
       - レイヤー透過度設定
-      - 検索機能
+      - 検索機能(Google Maps Platform のAPIを使用)
       - Playwright による自動テスト
       - AWS Amplify を使用したデプロイ
 --- 
